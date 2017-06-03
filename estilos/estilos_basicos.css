@@ -68,6 +68,20 @@ div#usos p{
 
 }
 
+div#video h2{
+	color: #42A5F5;
+	text-align: center;
+}
+
+div#video p{
+	text-align: center;
+	opacity: .87;
+	font-size: 20px;
+	text-decoration: none;
+	font-weight: lighter;
+
+}
+
 div#ejemplos h2{
 	color: #42A5F5;
 	text-align: center;
